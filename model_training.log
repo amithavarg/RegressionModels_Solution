@@ -1,0 +1,41 @@
+2024-08-04 22:34:41,205 - ERROR - An error occurred: [Errno 2] No such file or directory: 'final.csv'
+2024-08-04 22:35:50,110 - ERROR - An error occurred: [Errno 2] No such file or directory: 'final.csv'
+2024-08-04 22:36:41,807 - INFO - Data loaded successfully.
+2024-08-04 22:36:41,809 - INFO - Dataset split into train and test sets. Shapes: x_train: (1505, 13), x_test: (377, 13)
+2024-08-04 22:36:41,810 - INFO - Linear Regression model trained successfully.
+2024-08-04 22:36:41,812 - INFO - Linear Regression Train MAE: 88675.43111087692
+2024-08-04 22:36:41,813 - INFO - Linear Regression Test MAE: 89564.6678189001
+2024-08-04 22:36:41,818 - INFO - Decision Tree model trained successfully.
+2024-08-04 22:36:41,819 - INFO - Decision Tree Test MAE: 73832.52519373098
+2024-08-04 22:36:41,819 - INFO - Decision Tree Train MAE: 69122.57215336683
+2024-08-04 22:36:42,531 - INFO - Decision Tree plot saved.
+2024-08-04 22:36:52,517 - INFO - Random Forest model trained successfully.
+2024-08-04 22:36:52,568 - INFO - Random Forest Test MAE: 48505.02165782493
+2024-08-04 22:36:52,593 - INFO - Random Forest model saved.
+2024-08-04 22:36:52,630 - INFO - Prediction for example input: [253324.65]
+2024-08-04 23:10:19,428 - INFO - Data loaded successfully.
+2024-08-04 23:10:19,432 - INFO - Dataset split into train and test sets. Shapes: x_train: (1505, 13), x_test: (377, 13)
+2024-08-04 23:10:19,434 - INFO - Linear Regression model trained successfully.
+2024-08-04 23:10:19,436 - INFO - Linear Regression Train MAE: 88675.43111087692
+2024-08-04 23:10:19,437 - INFO - Linear Regression Test MAE: 89564.6678189001
+2024-08-04 23:10:19,439 - INFO - Decision Tree model trained successfully.
+2024-08-04 23:10:19,439 - INFO - Decision Tree Test MAE: 73832.52519373098
+2024-08-04 23:10:19,440 - INFO - Decision Tree Train MAE: 69122.57215336683
+2024-08-04 23:10:20,129 - INFO - Decision Tree plot saved.
+2024-08-04 23:10:29,835 - INFO - Random Forest model trained successfully.
+2024-08-04 23:10:29,887 - INFO - Random Forest Test MAE: 48682.17947612733
+2024-08-04 23:10:29,911 - INFO - Random Forest model saved.
+2024-08-04 23:10:29,943 - INFO - Prediction for example input: [257137.8975]
+2024-08-05 00:41:13,603 - INFO - Data loaded successfully.
+2024-08-05 00:41:13,605 - INFO - Dataset split into train and test sets. Shapes: x_train: (1505, 13), x_test: (377, 13)
+2024-08-05 00:41:13,652 - INFO - Linear Regression model trained successfully.
+2024-08-05 00:41:13,655 - INFO - Linear Regression Train MAE: 88675.43111087692
+2024-08-05 00:41:13,656 - INFO - Linear Regression Test MAE: 89564.6678189001
+2024-08-05 00:41:13,659 - INFO - Decision Tree model trained successfully.
+2024-08-05 00:41:13,660 - INFO - Decision Tree Test MAE: 73832.52519373098
+2024-08-05 00:41:13,661 - INFO - Decision Tree Train MAE: 69122.57215336683
+2024-08-05 00:41:14,466 - INFO - Decision Tree plot saved.
+2024-08-05 00:41:24,192 - INFO - Random Forest model trained successfully.
+2024-08-05 00:41:24,244 - INFO - Random Forest Test MAE: 48632.86338859417
+2024-08-05 00:41:24,273 - INFO - Random Forest model saved.
+2024-08-05 00:41:24,306 - INFO - Prediction for example input: [257978.625]
